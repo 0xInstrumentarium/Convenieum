@@ -1,6 +1,8 @@
 # Convenieum
 Convinient Bash Scripts for my Linux Desktop
 
+---
+
 ## Scripts
 **SpotifyToInput.sh**
 
